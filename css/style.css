@@ -1,0 +1,45 @@
+.col {
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box_red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.box_blue {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.box_pink {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+.box_green {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.box_yellow {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+footer {
+    background-image: linear-gradient(to left, yellow, red, blue);
+    height: 100px;
+    color: white;
+}
+
+.footer__copy_link {
+    color: #fff;
+}
